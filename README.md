@@ -1,6 +1,6 @@
-# 한의원 건강 체크 (PWA)
+# 강남뇌편한의원 생활관리 (PWA)
 
-환자가 매일 **수면 · 통증 · 식단 · 생활**을 기록하는 간단한 앱. 기록은 환자 기기(localStorage)에만 저장됩니다.
+환자가 매일 **수면 · 식단 · 신경회복운동 · 증상(VAS 1~10)**을 기록하는 간단한 앱. 기록은 환자 기기(localStorage)에만 저장됩니다.
 
 ## 배포 (GitHub Pages)
 저장소 Settings → Pages → Branch: 이 브랜치/`main`, 폴더 `/ (root)` → `https://brainease0630-byte.github.io/myapp1/`
